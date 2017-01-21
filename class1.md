@@ -1,4 +1,5 @@
 # I. Overview
+
 ## 1. History
 LD Debate originates from the famous debates held between Abraham Lincoln and Stephen Douglas in 1865 over slavery. Stephen Douglas advocated for allowing electorates to decide whether slavery should be allowed or not while Lincoln disagreed, believing that slavery should be abolished within any new territory founded within the US.
 The format for these debates were as follows: first speaker would talk for 60 minutes, the next would go for 90 minutes, and the first speaker would then wrap up in 30 minutes. For the nine debates that the two held, they would alternate who went first.
@@ -6,7 +7,7 @@ The format for these debates were as follows: first speaker would talk for 60 mi
 ### Correlations between then and now
 Though the format has obviously changed as no one speaks for up to 90 minutes, the spirit has been captured. The original topic, slavery, was the hottest political topic of the day. Modern-day LD Debate keeps that spirit alive by discussing controversial topics so that the participants and the audience will think about the topic seriously and produce meaningful dialogue.
 
-### 2. Differences between Lincoln Douglas Debate and Cross-Examination Debate
+## 2. Differences between Lincoln Douglas Debate and Cross-Examination Debate
 Cross-Examination Debate (CX for short) focuses upon gathering evidence to affirm/refute the resolution at hand. Further, debators attempt to speak as fast as possible in order to create a spread of argumentation that the other side could not all address. Further, CX debate is a team debate event. Lincoln Douglas Debate focuses not upon breadth of argumentation but rather depth.
 
 ## 3. A Round in Detail
