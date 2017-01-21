@@ -27,11 +27,14 @@ The poor conclusion. It is often the most misunderstood of a proper debate case 
 that has already been said. While it is important to sum up a case, the best conclusions will restate everything in such a way
 that it sheds new light. For example, citing an example which utilizes all the points or by adding in a new dimension.
 
-## Cross Examination
+### Cross Examination
 CX is the two periods in a debate round where the two speakers clash directly. The questioner will attempt to contest points in 
 your case and/or bring up topics which will harm your arguments. The person being questioned will attempt to use up the questioner's
 time and strengthen their own position.
 
 CX is governed by a few principles: diplomacy, time management, and clash.
+
+## Class Resolution
+For this class, we will be debating one resolution:
 
 ## Resolved: Just societies should never deliberately initiate war.
