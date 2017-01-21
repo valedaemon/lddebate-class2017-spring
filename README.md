@@ -5,5 +5,5 @@ Lincoln Douglas debate is a forum in which students learn not only how to analyz
 
 ## Links
 1. [Syllabus](/lddebate-class2017-spring//syllabus.html)
-2. [Class 1](/lddebate-class2017-spring/)
-3. [Class 2](/lddebate-class2017-spring/)
+2. [Class 1](/lddebate-class2017-spring/class1.html)
+3. [Class 2](/lddebate-class2017-spring/class2.html)
